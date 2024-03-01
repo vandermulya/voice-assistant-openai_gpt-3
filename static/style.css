@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap');
+
 /* Light mode */
 body {
   background-color: #d6ddec;
   color: #121717;
+  font-family: 'Inter', sans-serif;
 }
 
 /* Dark mode */
